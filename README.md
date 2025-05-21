@@ -77,7 +77,7 @@ Advanced-Soccer-Simulation/
 1. **Klon repositori ini**:
 
    ```bash
-   git clone https://github.com/username/Advanced-Soccer-Simulation.git
+   git clone https://github.com/DwiDevelopes/Advanced-Soccer-Simulation.git
    cd Advanced-Soccer-Simulation
    ```
 
